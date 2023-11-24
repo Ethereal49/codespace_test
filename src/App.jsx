@@ -27,12 +27,12 @@ const siteProps = {
   name: "Ethereal",
   title: "WStudent",
   email: "ethereal49@outlook.com",
-  gitHub: "null",
-  instagram: "null",
-  linkedIn: "null",
+  gitHub: "Ethereal49",
+  instagram: "",
+  linkedIn: "",
   medium: "",
-  twitter: "null",
-  youTube: "null",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
